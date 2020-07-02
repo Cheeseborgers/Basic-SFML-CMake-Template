@@ -7,7 +7,7 @@
 int main()
 {
     // Create a window context
-    sf::RenderWindow window(sf::VideoMode(800, 600), "My window");
+    sf::RenderWindow window(sf::VideoMode(800, 600), "My game window");
 
     // Do us a circle shape
     sf::CircleShape shape(50.f);
